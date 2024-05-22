@@ -1,0 +1,41 @@
+.gmb-img{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.gmb-img img{
+    width: 100%;
+    border: 2px solid salmon;
+    border-radius: 8px;
+}
+
+.total-container{
+    max-width: 1440px;
+    margin: 0 auto;
+    border: 2px solid rebeccapurple;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.total-container h2{
+    text-align: center;
+    border: none;
+    color: white;
+    padding: 15px 5px;
+    background: palegreen;
+}
+
+.content{
+    padding: 8px;
+    text-align: justify;
+}
+
+.gmb-btn{
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    color: brown;
+
+}
